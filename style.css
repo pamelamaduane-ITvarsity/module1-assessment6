@@ -49,14 +49,7 @@ br{
 	font-weight: 800;
 	font-size: 14px;
 	font-family: Helvatica, sans-serif;
-	
-	background-image: url(images/image-buttons/menu-button.gif);
-	display: block;
-	width: 128px;
-	height: 25px;
-	padding-left: 18px;
-	padding-top: 2px;
-	float: left;
+}
 
 	
-}
+
