@@ -28,7 +28,7 @@ title{
 }
 #MENU a{
 	background-color: bisque;
-    color: brown
+    color: brown;
     font-size: 18px;
     text-decoration: none;
     font-weight: 800px;
@@ -36,7 +36,7 @@ title{
     padding-left: 30px;
     padding-right: 30px;      
 }
-#MENU a:hover{
+#MENU a:hover;{
     color:brown;
 }
 br{
@@ -48,7 +48,7 @@ br{
 	color: black;
 	font-weight: 800;
 	font-size: 14px;
-	font-family: Helvatica, sans-serif;
+	font-family: Helvatica sans-serif;
 }
 
 	
